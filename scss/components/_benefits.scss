@@ -2,7 +2,7 @@
     padding-bottom: 60px;
     padding-top: 60px;   
 
-    @media (min-width:1600px) {
+    @media (min-width:1200px) {
         padding-bottom: 94px;
         padding-top: 94px;
     }
@@ -22,7 +22,7 @@
             width: 354px;
     }
     
-    @media (min-width:1600px) {
+    @media (min-width:1200px) {
             width: 270px;
     }
 }
@@ -55,7 +55,7 @@
         }
     }
 
-    @media (min-width:1600px) {
+    @media (min-width:1200px) {
         width: 270px;
 
         &:not(:last-child) {
@@ -67,7 +67,7 @@
             display: inline-flex;
             flex-wrap: wrap;
 
-            @media (min-width:1600px) {
+            @media (min-width:1200px) {
                 flex-wrap: nowrap;                    
                 }
             }  

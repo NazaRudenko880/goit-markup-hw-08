@@ -6,7 +6,7 @@ body {
     font-family: $mainFont;   
 }
 .container {
-    max-width: 480px;
+    
     padding-left: 15px;
     padding-right: 15px;
     margin-left:auto;
@@ -27,15 +27,16 @@ a {
          max-width: 768px;
          }
  }
- @media (min-width:1600px) {
+ @media (min-width:1200px) {
     body {
-            width: 1600px;
+            width: 1200px;
         }
     
         .container {
             max-width: 1600px;
-            padding-left: 215px;
-            padding-right: 215px;
+            padding-left: 15px;
+            padding-right: 15px;
+           
 
         }
 
